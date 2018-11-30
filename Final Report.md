@@ -8,6 +8,7 @@ Google Merchandise Store is a online google store which sells Google swag. Curre
 
 ### Objective
 ### Dataset
+
 ### Data preprocessing
 ### Modeling
 ### Result
